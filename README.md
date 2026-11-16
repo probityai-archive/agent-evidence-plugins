@@ -1,5 +1,5 @@
 <!-- moved-to-monorepo -->
-> **Moved to [probityai/probity/packages/agent-evidence-plugins](https://github.com/probityai/probity/tree/main/packages/agent-evidence-plugins). Star and follow it there.** This repository is archived and has no planned delete date; its tags and releases keep working. Add the marketplace with `claude plugin marketplace add probityai/probity`; the marketplace name stays `agent-evidence-plugins`.
+> **Moved to [probityai/probity/harnesses/agent-evidence-plugins](https://github.com/probityai/probity/tree/main/harnesses/agent-evidence-plugins). Star and follow it there.** This repository is archived and has no planned delete date; its tags and releases keep working. Add the marketplace with `claude plugin marketplace add probityai/probity`; the marketplace name stays `agent-evidence-plugins`.
 
 # agent-evidence-plugins
 
